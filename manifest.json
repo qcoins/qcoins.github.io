@@ -1,6 +1,6 @@
 {
-  "short_name": "Crypto Navigator",
-  "name": "Crypto currencies navigator",
+  "short_name": "My coins",
+  "name": "Watch my coins portfolio",
   "icons": [
     {
       "src": "favicon.ico",
